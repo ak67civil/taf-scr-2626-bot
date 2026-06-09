@@ -1,0 +1,12 @@
+pyrofork
+tgcrypto
+aiohttp
+python-dotenv
+uvloop
+motor
+pymongo
+psutil
+requests
+Pillow
+python-telegram-bot[http2]
+httpx
